@@ -1,0 +1,2 @@
+class PanoramaToFlatImage:
+    pass
